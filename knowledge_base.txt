@@ -1,0 +1,97 @@
+Retail Analytics Knowledge Base
+This knowledge base contains business insights generated from online retail transaction data.
+
+Top Selling Products by Revenue:
+- REGENCY CAKESTAND 3 TIER: revenue 286486.30
+- WHITE HANGING HEART T-LIGHT HOLDER: revenue 252072.46
+- PAPER CRAFT , LITTLE BIRDIE: revenue 168469.60
+- Manual: revenue 152340.57
+- JUMBO BAG RED RETROSPOT: revenue 136980.08
+- ASSORTED COLOUR BIRD ORNAMENT: revenue 127074.17
+- POSTAGE: revenue 126563.04
+- PARTY BUNTING: revenue 103880.23
+- MEDIUM CERAMIC TOP STORAGE JAR: revenue 81416.73
+- PAPER CHAIN KIT 50'S CHRISTMAS : revenue 79594.33
+
+Top Customers by Spending:
+- Customer 18102.0: total spending 608821.65
+- Customer 14646.0: total spending 528602.52
+- Customer 14156.0: total spending 313946.37
+- Customer 14911.0: total spending 295972.63
+- Customer 17450.0: total spending 246973.09
+- Customer 13694.0: total spending 196482.81
+- Customer 17511.0: total spending 175603.55
+- Customer 16446.0: total spending 168472.50
+- Customer 16684.0: total spending 147142.77
+- Customer 12415.0: total spending 144458.37
+
+Monthly Sales Trend:
+- 2009-12: total sales 686654.16
+- 2010-01: total sales 557319.06
+- 2010-02: total sales 506371.07
+- 2010-03: total sales 699608.99
+- 2010-04: total sales 594609.19
+- 2010-05: total sales 599985.79
+- 2010-06: total sales 639066.58
+- 2010-07: total sales 591636.74
+- 2010-08: total sales 604242.65
+- 2010-09: total sales 831615.00
+- 2010-10: total sales 1036680.00
+- 2010-11: total sales 1172336.04
+- 2010-12: total sales 884591.89
+- 2011-01: total sales 569445.04
+- 2011-02: total sales 447137.35
+- 2011-03: total sales 595500.76
+- 2011-04: total sales 469200.36
+- 2011-05: total sales 678594.56
+- 2011-06: total sales 661213.69
+- 2011-07: total sales 600091.01
+- 2011-08: total sales 645343.90
+- 2011-09: total sales 952838.38
+- 2011-10: total sales 1039318.79
+- 2011-11: total sales 1161817.38
+- 2011-12: total sales 518210.79
+
+Top Countries by Revenue:
+- United Kingdom: revenue 14723147.52
+- EIRE: revenue 621631.11
+- Netherlands: revenue 554232.34
+- Germany: revenue 431262.46
+- France: revenue 355257.47
+- Australia: revenue 169968.11
+- Spain: revenue 109178.53
+- Switzerland: revenue 100365.34
+- Sweden: revenue 91549.72
+- Denmark: revenue 69862.19
+
+Average Order Value:
+- Average order value is 22.03
+
+RFM Feature Engineering Summary:
+- Recency represents how many days since the customer's last purchase.
+- Frequency represents how many unique invoices/orders the customer has made.
+- Monetary represents the total amount spent by the customer.
+
+High Value Customers based on Monetary Spend:
+- Customer 18102.0: recency 0 days, frequency 145 orders, monetary value 608821.65, average order value 4198.77, churn risk Low
+- Customer 14646.0: recency 1 days, frequency 151 orders, monetary value 528602.52, average order value 3500.68, churn risk Low
+- Customer 14156.0: recency 9 days, frequency 156 orders, monetary value 313946.37, average order value 2012.48, churn risk Low
+- Customer 14911.0: recency 0 days, frequency 398 orders, monetary value 295972.63, average order value 743.65, churn risk Low
+- Customer 17450.0: recency 7 days, frequency 51 orders, monetary value 246973.09, average order value 4842.61, churn risk Low
+- Customer 13694.0: recency 3 days, frequency 143 orders, monetary value 196482.81, average order value 1374.01, churn risk Low
+- Customer 17511.0: recency 2 days, frequency 60 orders, monetary value 175603.55, average order value 2926.73, churn risk Low
+- Customer 16446.0: recency 0 days, frequency 2 orders, monetary value 168472.50, average order value 84236.25, churn risk Low
+- Customer 16684.0: recency 3 days, frequency 55 orders, monetary value 147142.77, average order value 2675.32, churn risk Low
+- Customer 12415.0: recency 23 days, frequency 28 orders, monetary value 144458.37, average order value 5159.23, churn risk Low
+
+Churn Risk Customers:
+- Customer 17592.0: last purchase was 738 days ago, frequency 1 orders, total spend 148.30, churn risk High
+- Customer 12636.0: last purchase was 738 days ago, frequency 1 orders, total spend 141.00, churn risk High
+- Customer 15833.0: last purchase was 737 days ago, frequency 1 orders, total spend 80.40, churn risk High
+- Customer 13526.0: last purchase was 737 days ago, frequency 2 orders, total spend 1182.00, churn risk High
+- Customer 17818.0: last purchase was 737 days ago, frequency 1 orders, total spend 130.18, churn risk High
+- Customer 17056.0: last purchase was 737 days ago, frequency 1 orders, total spend 128.60, churn risk High
+- Customer 14654.0: last purchase was 737 days ago, frequency 1 orders, total spend 246.86, churn risk High
+- Customer 17087.0: last purchase was 737 days ago, frequency 1 orders, total spend 221.53, churn risk High
+- Customer 17606.0: last purchase was 736 days ago, frequency 1 orders, total spend 87.30, churn risk High
+- Customer 12934.0: last purchase was 736 days ago, frequency 1 orders, total spend 181.65, churn risk High
